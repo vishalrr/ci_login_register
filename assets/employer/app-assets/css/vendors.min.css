@@ -1,0 +1,9 @@
+@import url('bootstrap.min.css');
+@import url('../fonts/feather/style.min.css');
+@import url('../fonts/flag-icon-css/css/flag-icon.min.css');
+@import url('../vendors/css/extensions/pace.css');
+
+.header-navbar .navbar-header .navbar-brand {
+    padding: 5px 0 !important;
+    margin-right: 0;
+}
